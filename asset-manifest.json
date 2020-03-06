@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/git@github.com:steve19890707/react-push-github.git/static/css/main.5f361e03.chunk.css",
-    "main.js": "/git@github.com:steve19890707/react-push-github.git/static/js/main.2280b187.chunk.js",
-    "main.js.map": "/git@github.com:steve19890707/react-push-github.git/static/js/main.2280b187.chunk.js.map",
-    "runtime-main.js": "/git@github.com:steve19890707/react-push-github.git/static/js/runtime-main.9bc617fb.js",
-    "runtime-main.js.map": "/git@github.com:steve19890707/react-push-github.git/static/js/runtime-main.9bc617fb.js.map",
-    "static/js/2.ea2163a0.chunk.js": "/git@github.com:steve19890707/react-push-github.git/static/js/2.ea2163a0.chunk.js",
-    "static/js/2.ea2163a0.chunk.js.map": "/git@github.com:steve19890707/react-push-github.git/static/js/2.ea2163a0.chunk.js.map",
-    "index.html": "/git@github.com:steve19890707/react-push-github.git/index.html",
-    "precache-manifest.f392e5f70c2830abc4f721becbe26f43.js": "/git@github.com:steve19890707/react-push-github.git/precache-manifest.f392e5f70c2830abc4f721becbe26f43.js",
-    "service-worker.js": "/git@github.com:steve19890707/react-push-github.git/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/git@github.com:steve19890707/react-push-github.git/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.ea2163a0.chunk.js.LICENSE.txt": "/git@github.com:steve19890707/react-push-github.git/static/js/2.ea2163a0.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/git@github.com:steve19890707/react-push-github.git/static/media/logo.5d5d9eef.svg"
+    "main.css": "/react-push-github/static/css/main.5f361e03.chunk.css",
+    "main.js": "/react-push-github/static/js/main.686f077e.chunk.js",
+    "main.js.map": "/react-push-github/static/js/main.686f077e.chunk.js.map",
+    "runtime-main.js": "/react-push-github/static/js/runtime-main.4c801fe9.js",
+    "runtime-main.js.map": "/react-push-github/static/js/runtime-main.4c801fe9.js.map",
+    "static/js/2.ea2163a0.chunk.js": "/react-push-github/static/js/2.ea2163a0.chunk.js",
+    "static/js/2.ea2163a0.chunk.js.map": "/react-push-github/static/js/2.ea2163a0.chunk.js.map",
+    "index.html": "/react-push-github/index.html",
+    "precache-manifest.15c4c0d26162cf309eda62de00805360.js": "/react-push-github/precache-manifest.15c4c0d26162cf309eda62de00805360.js",
+    "service-worker.js": "/react-push-github/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/react-push-github/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.ea2163a0.chunk.js.LICENSE.txt": "/react-push-github/static/js/2.ea2163a0.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/react-push-github/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.9bc617fb.js",
+    "static/js/runtime-main.4c801fe9.js",
     "static/js/2.ea2163a0.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.2280b187.chunk.js"
+    "static/js/main.686f077e.chunk.js"
   ]
 }
