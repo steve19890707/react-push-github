@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-push-github/static/css/main.5f361e03.chunk.css",
+    "main.js": "/react-push-github/static/js/main.0b214c6c.chunk.js",
+    "main.js.map": "/react-push-github/static/js/main.0b214c6c.chunk.js.map",
+    "runtime-main.js": "/react-push-github/static/js/runtime-main.4c801fe9.js",
+    "runtime-main.js.map": "/react-push-github/static/js/runtime-main.4c801fe9.js.map",
+    "static/js/2.ea2163a0.chunk.js": "/react-push-github/static/js/2.ea2163a0.chunk.js",
+    "static/js/2.ea2163a0.chunk.js.map": "/react-push-github/static/js/2.ea2163a0.chunk.js.map",
+    "index.html": "/react-push-github/index.html",
+    "precache-manifest.ea7bd1ac905cdbcbb4395f047400445e.js": "/react-push-github/precache-manifest.ea7bd1ac905cdbcbb4395f047400445e.js",
+    "service-worker.js": "/react-push-github/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/react-push-github/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.ea2163a0.chunk.js.LICENSE.txt": "/react-push-github/static/js/2.ea2163a0.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/react-push-github/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4c801fe9.js",
+    "static/js/2.ea2163a0.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.0b214c6c.chunk.js"
+  ]
+}
